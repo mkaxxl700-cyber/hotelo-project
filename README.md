@@ -7,3 +7,5 @@
 - Главный экран и поиск (Hero Section)
 - Блок услуг и сервиса (Facilities)
 - Статистика и логотипы партнеров
+5. Document stats and partners
+  
