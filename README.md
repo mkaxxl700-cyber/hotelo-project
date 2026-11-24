@@ -1,6 +1,6 @@
 # Hotelo — Hotel Booking Landing Page
 
-🌐 **Мой живой сайт:** https://github.io
+🌐 **Мой живой сайт:** https://mkaxxl700-cyber.github.io/hotelo-project/
 
 ---
 
