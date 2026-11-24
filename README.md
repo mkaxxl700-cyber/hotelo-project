@@ -1,3 +1,9 @@
+# Hotelo — Hotel Booking Landing Page
+
+🌐 **Живой сайт (Live Demo):** [Открыть сайт Hotelo](https://github.io)
+
+---
+
 ## Установка: открыть index.html
 ## Автор: Muhammadjon
 ## Структура проекта: index.html, style.css
