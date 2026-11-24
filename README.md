@@ -1,4 +1,4 @@
-🌐 **Живой сайт (Live Demo):** [Открыть сайт Hotelo](https://github.io)
+🌐 **Живой сайт (Live Demo):** [Открыть сайт Hotelo](mkaxxl700-cyber.github.io/hotelo-project/)
 
 ---
 
