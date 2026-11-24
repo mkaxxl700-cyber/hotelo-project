@@ -2,6 +2,7 @@
 
 🌐 **Живой сайт (Live Demo):** [Открыть сайт Hotelo](https://github.io)
 
+
 ---
 
 ## Установка: открыть index.html
