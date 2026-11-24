@@ -1,4 +1,6 @@
-🌐 **Живой сайт (Live Demo):** [Открыть сайт Hotelo](mkaxxl700-cyber.github.io/hotelo-project)
+# Hotelo — Hotel Booking Landing Page
+
+🌐 **Живой сайт (Live Demo):** [Открыть сайт Hotelo](https://github.io)
 
 ---
 
@@ -7,9 +9,10 @@
 ## Структура проекта: index.html, style.css
 ## Статус: Готов к проверке
 ## Год: 2026
+
 - Верстка шапки сайта (Header)
 - Главный экран и поиск (Hero Section)
 - Блок услуг и сервиса (Facilities)
 - Статистика и логотипы партнеров
-5. Document stats and partners
-  
+- Каталог лучших отелей и отзывы
+- Форма подписки и подвал (Footer)
