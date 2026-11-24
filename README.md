@@ -1,7 +1,4 @@
-# Hotelo — Hotel Booking Landing Page
-
 🌐 **Живой сайт (Live Demo):** [Открыть сайт Hotelo](https://github.io)
-
 
 ---
 
